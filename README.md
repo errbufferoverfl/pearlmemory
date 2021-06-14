@@ -17,7 +17,7 @@
   <p align="center">
     A Python script for creating German Anki cards. The script loads a CSV file of words to search, gets a translation using Azure Cognitive Services translate and text to speech to generate the primary content. Pearl Memory also supports Google for translation services not for text to speech.
     <br />
-    <a href="https://github.com/errbufferoverfl/pearl-memory/blob/main/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/errbufferoverfl/pearl-memory/blob/master/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/errbufferoverfl/pearl-memory/issues">Report Bug</a>
